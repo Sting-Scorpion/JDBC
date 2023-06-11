@@ -55,7 +55,7 @@ JDBC是SUN公司制定的一套接口（interface）
 JDBC的本质到底是什么？
 - 一套接口。
 
-![image-20230527184448961](C:\Users\明月空悬\AppData\Roaming\Typora\typora-user-images\image-20230527184448961.png)
+![What is JDBC](resources\image-20230527184448961.png)
 
 
 
